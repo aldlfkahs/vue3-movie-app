@@ -1,4 +1,7 @@
-# Vue3 템플릿 with Webpack
+# Vue3-Movie-App
+배포된 사이트는 [여기](https://655ccaec6f5e5500771bd216--jocular-crepe-c4e46c.netlify.app/#/)를 클릭해주세요.
+
+이 프로젝트는 패스트 캠퍼스의 HEROPY 강사님의 "한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online" 강의를 통해 만들었습니다.
 
 ## Versions
 
